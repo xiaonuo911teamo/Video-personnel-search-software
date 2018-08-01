@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyApp>
+    <!-- Settings for MyApp -->
+    <AppDatas>
+        <strangers>D:/xiaonuo-Exclusive/Knowledge/QT/QT-exercise/myWorks/strangers/</strangers>
+        <video>D:/xiaonuo-Exclusive/Knowledge/QT/QT-exercise/myWorks/1-5.mp4</video>
+        <faceCascade>haarcascade_frontalface_alt.xml</faceCascade>
+        <modelPCA>facePCAModel.xml</modelPCA>
+    </AppDatas>
+    <Peoples>
+        <people name="222" num="22" age="22" note="22" picAddr="D:/xiaonuo-Exclusive/Knowledge/QT/QT-exercise/myWorks/strangers/stranger6.jpg" label="2686484" />
+    </Peoples>
+    <Sum sum="1" />
+</MyApp>
