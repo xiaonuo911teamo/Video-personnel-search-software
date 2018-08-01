@@ -68,7 +68,7 @@ private slots:
     void on_specifiedButton_clicked();
 
 private :
-    void setVideo(QString videoAddr = "video0.mp4");
+    void setVideo(QString videoAddr = "5-1.mp4");
     void setCascadeClassifier(QString faceCascadeAddr = "haarcascade_frontalface_alt.xml");
     void setFaceRecognizer(QString modelPCAAddr = "facePCAModel.xml");
 
