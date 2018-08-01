@@ -6,7 +6,7 @@
 Settings::Settings()
 {
     m_datas.clear();
-    s_strangers=m_datas["strangers"]="D:/xiaonuo-Exclusive/Knowledge/QT/QT-exercise/myWorks/strangers/";
+    s_strangers=m_datas["strangers"]="./strangers/";
     s_video=m_datas["video"]="1-5.mp4";
     s_faceCascade=m_datas["faceCascade"]="./xml/haarcascade_frontalface_alt.xml";
     s_modelPCA=m_datas["modelPCA"]="./xml/facePCAModel.xml";
